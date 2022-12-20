@@ -1,7 +1,7 @@
 **Table of Contents**
 
 1. General Introduction
-1.1. The Way of the Program
+emsp 1.1. The Way of the Program
 1.2. Algorithms
 1.3. The Python Programming Language
 1.4. Executing Python in this Book

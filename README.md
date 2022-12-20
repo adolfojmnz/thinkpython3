@@ -29,6 +29,6 @@
 <br />**Chapter 27**:  Trees
 
 
-Free e-book a:
+Free e-book at:
 <br /> https://openbookproject.net/thinkcs/python/english3e/ *(2012 version)*
 <br /> https://runestone.academy/ns/books/published/thinkcspy/index.html *(2015 interactive version)*

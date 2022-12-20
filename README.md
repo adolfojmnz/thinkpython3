@@ -1,25 +1,25 @@
 **Table of Contents**
 
 1. General Introduction
-emsp 1.1. The Way of the Program
-1.2. Algorithms
-1.3. The Python Programming Language
-1.4. Executing Python in this Book
-1.5. More About Programs
-1.6. What is Debugging?
-1.7. Syntax errors
-1.8. Runtime Errors
-1.9. Semantic Errors
-1.10. Experimental Debugging
-1.11. Formal and Natural Languages
-1.12. A Typical First Program
-1.13. Comments
-1.14. Glossary
-1.15. Exercises
+&emsp;1.1. The Way of the Program
+&emsp;1.2. Algorithms
+&emsp;1.3. The Python Programming Language
+&emsp;1.4. Executing Python in this Book
+&emsp;1.5. More About Programs
+&emsp;1.6. What is Debugging?
+&emsp;1.7. Syntax errors
+&emsp;1.8. Runtime Errors
+&emsp;1.9. Semantic Errors
+&emsp;1.10. Experimental Debugging
+&emsp;1.11. Formal and Natural Languages
+&emsp;1.12. A Typical First Program
+&emsp;1.13. Comments
+&emsp;1.14. Glossary
+&emsp;1.15. Exercises
 2. Simple Python Data
-2.1. Variables, Expressions and Statements
-2.2. Values and Data Types
-2.3. Type conversion functions
+&emsp;2.1. Variables, Expressions and Statements
+&emsp;2.2. Values and Data Types
+&emsp;2.3. Type conversion functions
 2.4. Variables
 2.5. Variable Names and Keywords
 2.6. Statements and Expressions
